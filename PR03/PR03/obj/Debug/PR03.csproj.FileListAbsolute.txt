@@ -1,0 +1,6 @@
+C:\Temp\PCS-81\2 семетр\PR03\PR03\bin\Debug\PR03.exe.config
+C:\Temp\PCS-81\2 семетр\PR03\PR03\bin\Debug\PR03.exe
+C:\Temp\PCS-81\2 семетр\PR03\PR03\bin\Debug\PR03.pdb
+C:\Temp\PCS-81\2 семетр\PR03\PR03\obj\Debug\PR03.csprojResolveAssemblyReference.cache
+C:\Temp\PCS-81\2 семетр\PR03\PR03\obj\Debug\PR03.exe
+C:\Temp\PCS-81\2 семетр\PR03\PR03\obj\Debug\PR03.pdb
